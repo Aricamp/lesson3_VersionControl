@@ -5,17 +5,17 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+February 8, 2018
 
 ## Student Name:  
-(First and Last Name)
+Hayden Ariotti
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+The purpose of this assignment was to summarize what we had learned for the week, as well as familiarize ourselves with git.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. GitHub is a VCS that we will be using this semester to manage our source codes.
+2. To edit a file we move it from the remote repository to local repository.
+3. The use of push, pull, add, and commit allow us to move files around.
 
 # lesson3_VersionControl
